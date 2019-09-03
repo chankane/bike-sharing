@@ -1,0 +1,1 @@
+select city, count(city) from station group by city;

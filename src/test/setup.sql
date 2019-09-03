@@ -58,12 +58,18 @@ insert into utrip values(
 
 insert into utrip values(
   2,
-  4,
-  1
+  3,
+  6
 );
 
 insert into utrip values(
   3,
   4,
   4
+);
+
+insert into utrip values(
+  4,
+  1,
+  2
 );
